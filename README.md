@@ -1,52 +1,37 @@
-# 👋 Waqar Naeem 
-**Full-Stack Developer | Security Enthusiast | Data Analyst**
+# Waqar Naeem  
+**Software Developer | student of Computer and International Relaions**
+Hey, this is Waqar, I have worked as freelancer for more than 3 to 4 year with variety of different technolgies mentioned below.
+Currently I am trying put more emphasizes on learning the core fundamental of computer science and recreating already made tech 
+in order understand what is happening under the hood. I am hobbiyst learner, book reader and software developer I love when I code and learn 
+new things.
 
-Building robust solutions at the intersection of technology and global relations ☁️⚡
+## 🔧 Core Skills
+- 🗄️ DBMS (PostgreSQL, MongoDB, MySQL, Sqlite)
+- 💻 Operating Systems (Linux)
+- ⚙️ Assembly Language (x86)
+- 🌐 Computer Networking (Cisco, TCP/IP)
+- 🧮 DSA (hackerrank)
+- International Relations
+- ⚡ Distributed Systems (Learning...)
 
----
+## 🌱 Current Focus
+- 🔐 Penetration Testing Techniques
+- 🎮 Recreational Programming (Game Dev, CLI Tools)
 
-## 🛠 Core Expertise
+## 📚 Tech Stack  
+- **Frontend**: React, javascript 
+- **Backend**: Node.js, Express, Go, C  
+- **Mobile**: React Native, Expo  
+- **DevOps**: Docker, Kubernetes, Jenkins  
+  
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+## 📈 Activity Overview  
+![](https://github-readme-stats.vercel.app/api?username=waqarNaeem786&theme=algolia&hide_border=true&show_icons=true&hide=issues)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarNaeem786&theme=algolia&hide_border=true&layout=compact)
 
-### **Mobile & Cross-Platform**
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo)
+## 📬 Connect  
+- 💼 [LinkedIn](https://linkedin.com/in/waqar-naeem-b6a91a194)  
+- 📧 [Email](mailto:neutrone04@gmail.com)  
+- 🐦 [X](https://x.com/codeWithPikes)  
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
-
-### **Data Analysis**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-
----
-
-## 🔍 Currently Exploring
-- Penetration testing methodologies 🔒
-- Research paper writing frameworks 📝
-- International relations in tech policy 🌍
-
----
-
-## 📈 Activity Overview
-
-[![Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqarNaeem786&show_icons=true&theme=algolia&hide_title=true&hide_border=true)](https://github.com/waqarNaeem786)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarNaeem786&layout=compact&theme=algolia&hide_border=true)](https://github.com/waqarNaeem786)
-
----
-
-## 💼 Professional Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/waqar-naeem-b6a91a194)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:neutrone04@gmail.com)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x)](https://x.com/codeWithPikes)
-
----
-
-> "Complex systems demand simple solutions – I bridge the gap between intricate requirements and elegant implementations." ☕
+> "Building bridges between complex systems and intuitive solutions" ☕
