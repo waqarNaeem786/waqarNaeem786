@@ -1,4 +1,4 @@
-# Waqar Naeem - Software Developer | student of Computer and International Relaions
+# Waqar Naeem - Software Developer | Student of Computer Science
 Hi, this is Waqar, I have worked as freelancer for more than 3 to 4 year in Back-End, Front-End and Deveops Domain.
 Currently I am trying put more emphasizes on learning the core fundamental of computer science. I am hobbiyst learner, book reader and software developer I love when I code and when I learn to make new things.
 
@@ -29,4 +29,4 @@ Currently I am trying put more emphasizes on learning the core fundamental of co
 - 📧 [Email](mailto:neutrone04@gmail.com)  
 - 🐦 [X](https://x.com/codeWithPikes)  
 
-> "Building bridges between complex systems and intuitive solutions" ☕
+> "I don't mind cup a Tea!!!!" ☕
